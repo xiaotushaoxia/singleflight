@@ -1,3 +1,3 @@
-module github.com/xiaotushaoxia/kvtag/singleflight
+module github.com/xiaotushaoxia/singleflight
 
 go 1.20
